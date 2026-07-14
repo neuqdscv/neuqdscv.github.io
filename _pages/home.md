@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Data Science and Computer Vision (DSCV) Group, Northeastern University at Qinhuangdao (NEUQ), conducts research spanning natural language processing, embodied intelligence, and computer vision. We develop novel algorithms and original frameworks to tackle intricate challenges in natural language processing via deep learning and reinforcement learning methodologies.
+The Data Science and Computer Vision (DSCV) Group, Northeastern University at Qinhuangdao (NEUQ), conducts research spanning computer vision, embodied intelligence, and data science. We develop novel algorithms and original frameworks to tackle intricate challenges in natural language processing via deep learning and reinforcement learning methodologies.
 
 Our core objective is to advance the frontiers of artificial intelligence, while driving substantial progress in practical text processing systems that deliver far-reaching solutions to real-world problems.
 
