@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-The Northeastern University at Qinhuangdao Data Science and Computer Vision (NEUQ DS&CV) group is engaged in research within the field of natural language processing, embodied intelligence, and computer vision, among others. We create innovative algorithms and devise fresh frameworks to address complex challenges in NLP, leveraging techniques such as deep learning and reinforcement learning.
+The Data Science and Computer Vision (DSCV) Group, Northeastern University at Qinhuangdao (NEUQ), conducts research spanning natural language processing, embodied intelligence, and computer vision. We develop novel algorithms and original frameworks to tackle intricate challenges in natural language processing via deep learning and reinforcement learning methodologies.
 
-Our mission is to push the frontiers of artificial intelligence, simultaneously facilitating significant advancements in practical text processing applications with wide-ranging implications for real-world issues.
+Our core objective is to advance the frontiers of artificial intelligence, while driving substantial progress in practical text processing systems that deliver far-reaching solutions to real-world problems.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -57,12 +57,3 @@ Our mission is to push the frontiers of artificial intelligence, simultaneously 
 
 **We are looking for students interested in AI to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
 
-
-
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
-</figure>
