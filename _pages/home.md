@@ -35,5 +35,5 @@ Our core objective is to advance the frontiers of artificial intelligence, while
 </div>
 
 
-**We are looking for students interested in AI to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for students interested in AI to join the team** [(more info)](https://neuqdscv.github.io/vacancies) **!**
 
