@@ -10,7 +10,7 @@ The Data Science and Computer Vision (DSCV) Group, Northeastern University at Qi
 
 Our core objective is to advance the frontiers of artificial intelligence, while driving substantial progress in practical text processing systems that deliver far-reaching solutions to real-world problems.
 
-> **Supervisor Profile:** [Professor Yanxia Lü](https://jsjytx.neuq.edu.cn/info/1042/2818.htm)
+> **Supervisor Profile:** [Yanxia Lü](https://jsjytx.neuq.edu.cn/info/1042/2818.htm)
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
