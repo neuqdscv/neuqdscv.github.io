@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "NEUQ DS&CV Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
